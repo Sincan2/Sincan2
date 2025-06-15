@@ -34,7 +34,7 @@ Sincan2
 ---
 
 ### 🧑‍💻 Kunjungi Juga:
-- [🔗 WebGL Terminal Interaktif](https://Sincan2.github.io/)
+- [🔗 Website](https://mergosono.my.id)
 - [📂 Repositori Eksploitasi](https://github.com/Sincan2)
 
 <p align="center">
