@@ -1,6 +1,6 @@
 <!-- Animasi SVG typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7DE&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Exploit+Developer+%7C+Reverse+Engineer+%7C+Kernel+Hacker;Welcome+to+Sincan2's+GitHub!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7DE&center=true&vCenter=true&multiline=true&width=700&height=100&lines=Exploit+Developer+%7C+Reverse+Engineer+%7C+Kernel+Exploit;Welcome+to+Sincan2's+GitHub!" alt="Typing SVG" />
 </p>
 
 
