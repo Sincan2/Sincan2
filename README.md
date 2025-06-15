@@ -1,93 +1,42 @@
-```markdown
-<!-- Dark background banner with animation effect -->
+<!-- Animasi SVG typing -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=00F7DE&center=true&vCenter=true&multiline=true&width=500&height=60&lines=Exploit+Developer+%7C+Reverse+Engineer+%7C+Kernel+Hacker;Welcome+to+Sincan2's+GitHub!" alt="Typing SVG" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00FFFF&center=true&vCenter=true&width=435&lines=Welcome+to+Sincan2's+Terminal;Exploit+Developer+|+Kernel+Hacker+|+Reverse+Engineer" alt="Typing SVG" />
-</h1>
-
----
-
+<!-- Terminal CLI palsu -->
 <pre>
+┌──(sincan2㉿github)-[~/exploit]
+└─$ whoami
+Sincan2
 
-╭━━━┳━━━┳┳━━━┳━━━┳━━━┳━━━╮
-┃╭━╮┃╭━╮┣┫╭━╮┃╭━╮┃╭━╮┃╭━╮┃
-┃┃╱╰┫┃╱┃┃┃┃╱┃┃┃╱╰┫╰━━┫╰━━╮
-┃┃╭━┫┃╱┃┃┃┃╱┃┃┃╱╭╋━━╮┣━━╮┃
-┃╰┻━┃╰━╯┣┫╰━╯┃╰━╯┃╰━╯┃╰━╯┃
-╰━━━┻━━━┻┻━━━┻━━━┻━━━┻━━━╯
-
+┌──(sincan2㉿github)-[~/exploit]
+└─$ ./poc_cve_2024_6387
+[+] Heap grooming...
+[+] Triggering race condition...
+[+] Reverse shell: 127.0.0.1:4444
 </pre>
 
 ---
 
-### 💻 Simulasi Terminal Interaktif (Fake CLI)
-
-```
-
-┌──(sincan2㉿github)-\[\~]
-└─\$ whoami
-Sincan2
-
-┌──(sincan2㉿github)-\[\~]
-└─\$ uname -a
-Linux github 6.8.0-64-exploit #1 SMP x86\_64 GNU/Linux
-
-┌──(sincan2㉿github)-\[\~]
-└─\$ ./run\_exploit.sh
-\[*] Loading ROP chains...
-\[*] Heap grooming...
-\[\*] Bypassing ASLR...
-\[+] Root shell spawned at 127.0.0.1:4444
-
-```
+### 🧠 Tentang Saya
+- 🛠️ *"Di atas langit masih ada langit"*
+- 💣 Fokus: Reverse Engineering, Kernel Exploit, CVE Hunting
+- 🧪 Tools: GDB, Ghidra, pwndbg, Cutter, etc.
 
 ---
 
-### ⚔️ Tentang Saya
-
-- 🧠 Motto: *"Di atas langit masih ada langit"*
-- 🕳️ Hobi: Reverse Engineering, CVE Hunting, Linux Kernel Exploit
-- 🧪 Tools: Ghidra, pwndbg, gdb, radare2, Cutter, fuzzers
-
----
-
-### 📊 Statistik & Streak
-
+### 📊 Stats & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sincan2&show_icons=true&theme=github_dark&hide_title=false" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sincan2&layout=compact&theme=github_dark" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=Sincan2&theme=dark" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Sincan2&show_icons=true&theme=github_dark" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sincan2&layout=compact&theme=github_dark" height="150" />
 </p>
 
 ---
 
-### ⚙️ Teknologi & Tools
+### 🧑‍💻 Kunjungi Juga:
+- [🔗 WebGL Terminal Interaktif](https://Sincan2.github.io/)
+- [📂 Repositori Eksploitasi](https://github.com/Sincan2)
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Linux-black?style=flat&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Python-3670A0?style=flat&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/C-00599C?style=flat&logo=c&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Ghidra-FE7A16?style=flat&logo=ghidra&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GDB-red?style=flat&logo=gnu&logoColor=white"/>
+  <img src="https://komarev.com/ghpvc/?username=Sincan2&style=flat-square&color=00FFCC" alt="Visitor Count"/>
 </p>
-
----
-
-### ☎️ Kontak & Link
-
-<p align="center">
-  <a href="mailto:sincan2@exploit.dev"><img src="https://img.shields.io/badge/email-sincan2@exploit.dev-red?style=flat&logo=gmail"></a>
-  <a href="https://github.com/Sincan2"><img src="https://img.shields.io/github/followers/Sincan2?label=Follow&style=social" /></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Sincan2&style=flat-square&color=blue" alt="visitor badge"/>
-</p>
-```
-
