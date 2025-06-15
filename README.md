@@ -22,7 +22,7 @@ Sincan2
 ### 🧠 Tentang Saya
 - 🛠️ *"Di atas langit masih ada langit"*
 - 💣 Fokus: Reverse Engineering, Kernel Exploit, CVE Hunting
-- 🧪 Tools: GDB, Ghidra, pwndbg, Cutter, etc.
+- 🧪 email: sincan2@gmail.com
 
 ---
 
