@@ -26,11 +26,15 @@ Sincan2
 
 ---
 
-### 📊 Stats & Tools
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sincan2&show_icons=true&theme=github_dark" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sincan2&layout=compact&theme=github_dark" height="150" />
+  <img src="https://skillicons.dev/icons?i=linux,python,c,cpp,bash,docker,git" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sincan2&theme=redical&hide_border=true" />
+</p>
+
+
 
 ---
 
@@ -40,4 +44,64 @@ Sincan2
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Sincan2&style=flat-square&color=00FFCC" alt="Visitor Count"/>
+</p>
+
+
+<!-- ============== KERNEL RESEARCH PROFESSIONAL ============== -->
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=4000&pause=800&color=00F7DE&center=true&vCenter=true&width=900&lines=Kernel+Researcher+%7C+Low-Level+Engineer;Memory+Corruption+%7C+Race+Condition+Analysis;Sincan2+Research+Lab" />
+</p>
+
+---
+
+# 👨‍🔬 About
+
+Security Researcher focusing on:
+
+- Kernel Exploitation
+- Memory Corruption
+- Race Conditions
+- Privilege Escalation
+- Vulnerability Research (CVE)
+
+---
+
+# 🛠 Core Stack
+
+- C / C++
+- Linux Internals
+- GDB / IDA / Reverse Tools
+- Python Automation
+- Assembly Basics
+
+---
+
+# 📊 GitHub Metrics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Sincan2&show_icons=true&theme=github_dark&hide_border=true" height="160"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sincan2&layout=compact&theme=github_dark&hide_border=true" height="160"/>
+</p>
+
+---
+
+# 📈 Research Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Sincan2&theme=github-dark&hide_border=true" />
+</p>
+
+---
+
+# 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Sincan2&label=Research+Views&color=00F7DE&style=flat-square" />
+</p>
+
+---
+
+<p align="center">
+Precision • Stability • Low-Level Mastery
 </p>
